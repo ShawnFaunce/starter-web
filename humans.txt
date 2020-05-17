@@ -5,6 +5,7 @@
 
     <name> -- <role> -- <twitter>
     JASON Taylor - jason@git.training @aw
+    SHAWN HI
 
 # THANKS
 
