@@ -16,3 +16,4 @@
     HTML5, CSS3
     jQuery, Modernizr
     05.20.2020
+    Add more values
